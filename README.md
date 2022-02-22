@@ -1,5 +1,5 @@
 # Find and Patch Bugs .. No Matter How Hard
-## ..Jack of all Trades .:. "Hustler" .:. "Hacker" .:. Master of None..
+## ..Jack of all Trades .:. ¯\\_(ツ)_/¯ .:. Master of None..
 
 <!--
 **brnt-toast/brnt-toast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
