@@ -4,7 +4,7 @@
   "description": "<!-- **brnt-toast/brnt-toast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "parcel build src/index.js src/index.pug src/main.sass --dist-dir docs/ ",
+    "build": "parcel build ./src/index.pug --public-url ./ --no-source-maps --dist-dir docs/",
     "dev": "parcel src/index.pug"
   },
   "repository": {
@@ -17,6 +17,9 @@
   "devDependencies": {
     "@parcel/transformer-pug": "^2.3.2",
     "@parcel/transformer-sass": "^2.3.2",
-    "parcel": "^2.3.2"
+    "autoprefixer": "^10.4.2",
+    "parcel": "^2.3.2",
+    "postcss": "^8.4.7",
+    "tailwindcss": "^3.0.23"
   }
 }
