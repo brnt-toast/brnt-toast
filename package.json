@@ -4,7 +4,7 @@
   "description": "<!-- **brnt-toast/brnt-toast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "parcel build src/index.pug --dist-dir docs/",
+    "build": "parcel build src/index.js src/index.pug src/main.sass --dist-dir docs/ ",
     "dev": "parcel src/index.pug"
   },
   "repository": {
