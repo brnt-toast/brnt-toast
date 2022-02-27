@@ -1,0 +1,1 @@
+* [ ] edit: https://en.parceljs.org/cli.html#options -> parcel --public-url ./ is unclear [stackoverflow](https://stackoverflow.com/questions/47896504/parcel-build-command-not-working)
