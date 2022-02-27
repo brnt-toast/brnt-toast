@@ -2,3 +2,14 @@
 * [ ] explain in README.md that every personal project on Github is for learning
 	* [ ] much rather make pull to an existing project
 	* [ ] a lot or reinventing the wheel to learn conepts and ideas
+	* [ ] add tech used every day in a drop down
+		* [ ] Infra
+			* [ ] Docker
+			* [ ] GitLab
+		* [ ] Languages
+			* [ ] Javascript
+			* [ ] Python 
+		* [ ] Preprocessors
+			* [ ] Sass
+			* [ ] Pug
+		
