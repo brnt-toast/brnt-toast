@@ -5,7 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "parcel build ./src/index.pug --public-url ./ --no-source-maps --dist-dir docs/",
-    "dev": "parcel src/index.pug"
+    "dev": "parcel src/index.pug",
+    "clean" : "rm -rf .parcel-cache dist/"
   },
   "repository": {
     "type": "git",
