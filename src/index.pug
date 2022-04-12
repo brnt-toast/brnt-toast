@@ -3,6 +3,19 @@ html
 	head
 		link(rel='stylesheet' href='main.sass')
 	body
-		h1 Hello World
+		nav
+			h1 Brnt-Toast
+			ul.nav
+				li.nav-item
+					a.nav-link(href="https://github.com/brnt-toast") GitHub
+				li.nav-item.dropdown
+					a.nav-link.dropdown-toggle(
+						data-toggle='dropdown' 
+						href="#" 
+						role="button" 
+						aria-haspopup="true" 
+						aria-expanded="false") Projects
+					.dropdown-menu
+						a.dropdown-item(href="#") Action
 
-		script(src='./index.js')
+		script(type='module' src='./index.js')
