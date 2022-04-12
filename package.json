@@ -1,7 +1,6 @@
 {
   "name": "brnt-toast",
   "version": "1.0.0",
-  "description": "<!-- **brnt-toast/brnt-toast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
   "scripts": {
     "build": "parcel build ./src/index.pug --public-url ./ --no-source-maps --dist-dir docs/",
     "dev": "parcel src/index.pug",
