@@ -9,8 +9,7 @@
     "clean" : "rm -rf .parcel-cache dist/"
   },
   "repository": {
-    "type": "git",
-    "url": "http://10.0.0.81:49154/brnt-toast/brnt-toast.git"
+    "type": "git"
   },
   "keywords": [],
   "author": "",
