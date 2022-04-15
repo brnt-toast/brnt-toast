@@ -10,14 +10,20 @@ html
 					a.nav-link(href="https://github.com/brnt-toast"
 								target="_blank"
 							) GitHub
-				li.nav-item.dropdown
+				li.nav-item.dropdown(style="position: static") 
 					a.nav-link.dropdown-toggle(
 						data-toggle='dropdown' 
+						data-offest='-75'
 						href="#" 
 						role="button" 
 						aria-haspopup="true" 
 						aria-expanded="false") Projects
 					.dropdown-menu
-						a.dropdown-item(href="https://github.com/brnt-toast/simpleLayout") SimpleLayout
+						a.dropdown-item(
+							href="https://github.com/brnt-toast/simpleLayout"
+							) SimpleLayout
+						a.dropdown-item(
+							href="https://brnt-toast.github.io/myBigO"	
+							) myBigO
 
 		script(type='module' src='./index.js')
