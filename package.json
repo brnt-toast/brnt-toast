@@ -2,7 +2,7 @@
   "name": "brnt-toast",
   "version": "1.0.0",
   "scripts": {
-    "build": "parcel build ./src/index.pug --public-url ./ --no-source-maps --dist-dir docs/",
+    "build": "rm -rf docs/* && parcel build ./src/index.pug --public-url ./ --no-source-maps --dist-dir docs/",
     "dev": "parcel src/index.pug",
     "clean": "rm -rf .parcel-cache dist/"
   },
