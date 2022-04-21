@@ -1,6 +1,5 @@
 # ..Jack of all Trades .:. ¯\\_(ツ)_/¯ .:. Master of None..
-## I rather use and contribute back to an existing Framwork or Library than to roll my own..
-## I'm here to learn my craft .. Software ..
+## I rather use and contribute back to an existing Framwork or Library than to roll my own..  I'm here to learn my craft .. Software ..
 ### WIP -- personal website, relearning PHP, Cutting my teeth on React
 
 <!--
