@@ -1,6 +1,7 @@
 import React from 'react'
 import {Routes, Route, Link} from 'react-router-dom'
 
+import './styles/App.sass'
 
 import Nav from './components/Nav'
 import Home from './pages/Home'
