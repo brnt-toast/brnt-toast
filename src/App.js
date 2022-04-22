@@ -8,12 +8,12 @@ import Footer from './components/Footer'
 
 export default function App() {
   return (
-      <>
+      <div className="App">
         <Nav />
         <Routes>
             <Route path="/" element={<Home />} />
         </Routes>
         <Footer />
-      </>
+      </div>
   )
 }
