@@ -1,9 +1,11 @@
 import React from 'react'
 import Linkify from 'react-linkify'
 
+import '../styles/Footer.sass'
+
 export default function Footer() {
   return (
-    <>
+    <div className="Footer">
         hello from footer.js
         <Linkify>
             <a 
@@ -13,6 +15,6 @@ export default function Footer() {
                 Linkify
             </a>
         </Linkify>
-    </>
+    </div>
   )
 }
