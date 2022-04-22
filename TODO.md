@@ -21,3 +21,4 @@
 * [ ] Create Mix to fix scrollbar overflow : index.sass
 	* [ ] scrollbar-width, ::-webkit-scrollbar
 	* [ ] IE support ?
+* [ ] animate header gradient left to right 
