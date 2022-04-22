@@ -14,14 +14,14 @@ export default function Accordion() {
   return (
     <div className='Acorrdion'>
       <div className="Acorrdion--title">
+        this is a title
+
         <button 
           className="Acorrdion--btn"
           onClick={() => setToggle(!toggle)}
         >
-          <i className="Acorrdion--title-icon">{toggle ? '+': '-'}</i>
+          <span className="Acorrdion--title-icon">{!toggle ? '+': '-'}</span>
         </button>
-        this is a title
-
       </div>
       {toggle && (
         <div className="Acorrdion--content">
