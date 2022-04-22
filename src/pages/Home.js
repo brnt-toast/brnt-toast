@@ -3,7 +3,7 @@ import '../styles/Home.sass'
 
 export default function Home() {
   return (
-    <div class='Home'>
+    <div className='Home'>
       hello from home.js
 
     </div>
