@@ -1,6 +1,7 @@
 {
   "name": "brnt-toast",
   "version": "1.0.0",
+  "source": "src/index.pug",
   "scripts": {
     "build": "npm run clean && rm -rf docs/* &&  parcel build ./src/index.pug --public-url ./ --no-source-maps --dist-dir docs/",
     "dev": "parcel src/index.pug",
