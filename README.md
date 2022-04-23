@@ -1,7 +1,6 @@
 # ..Jack of all Trades .:. ¯\\_(ツ)_/¯ .:. Master of None..
-## I rather use and contribute back to an existing Framwork or Library than to roll my own..<br />I'm here to learn my craft .. Software ..
-### WIP -- Personal Website, Relearning PHP, Cutting my Teeth on React
-
+## UI | CSS | Frontend
+### WIP -- npm 
 <!--
 **brnt-toast/brnt-toast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
