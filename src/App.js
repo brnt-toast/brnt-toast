@@ -1,11 +1,10 @@
 import React from 'react'
 import {Routes, Route, Link} from 'react-router-dom'
 
-import './styles/App.sass'
 
 import Nav from './components/Nav'
 import Home from './pages/Home'
-import Footer from './components/Footer'
+import './styles/App.sass'
 
 export default function App() {
   return (
