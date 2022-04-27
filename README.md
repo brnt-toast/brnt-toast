@@ -1,6 +1,6 @@
 # ..Jack of all Trades .:. ¯\\_(ツ)_/¯ .:. Master of None..
-## UI | CSS | Frontend
-### WIP -- npm 
+## UI | Frontend
+### WIP -- TailwindCSS
 <!--
 **brnt-toast/brnt-toast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
