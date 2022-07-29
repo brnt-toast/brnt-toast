@@ -2,6 +2,12 @@
 ## UI | Frontend
 ### WIP -- TailwindCSS
 ![](https://www.codewars.com/users/brnt-toast/badges/large)
+
+![](https://badges.peiyuan.ch/leetcode/brnt-toast/ranking?logo=leetcode&label=brnt-toast&style=for-the-badge&color=green)
+![](https://badges.peiyuan.ch/leetcode/brnt-toast/rate?difficulty=easy)
+![](https://badges.peiyuan.ch/leetcode/brnt-toast/rate?difficulty=medium)
+![](https://badges.peiyuan.ch/leetcode/brnt-toast/rate?difficulty=hard)
+
 <!--
 **brnt-toast/brnt-toast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
