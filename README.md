@@ -1,6 +1,7 @@
 # ..Jack of all Trades .:. ¯\\_(ツ)_/¯ .:. Master of None..
 ## UI | Frontend
 ### WIP -- TailwindCSS
+![](https://www.codewars.com/users/brnt-toast/badges/large)
 <!--
 **brnt-toast/brnt-toast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
