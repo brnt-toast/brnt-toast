@@ -13,6 +13,7 @@ export default function Nav() {
           <h2 className="Nav--name">
               .:. I'M <span>.:. B R (E) N T .:.</span>
           </h2>
+          <p>You may have noticed how simple the page is, and you wouldn't be wrong. The magic is in the text .. resize the window ..</p>
         </header>
     </div>
   )
