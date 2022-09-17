@@ -1,0 +1,23 @@
+{
+  "name": "brnt-toast",
+  "version": "1.0.0",
+  "description": "<!-- **brnt-toast/brnt-toast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brnt-toast/brnt-toast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brnt-toast/brnt-toast/issues"
+  },
+  "homepage": "https://github.com/brnt-toast/brnt-toast#readme"
+}
