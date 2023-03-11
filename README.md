@@ -1,6 +1,7 @@
 # ..Jack of all Trades .:. ¯\\_(ツ)_/¯ .:. Master of None..
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=brnt-toast&theme=blue-green
+![stats](https://github-readme-stats.vercel.app/api?username=brnt-toast&theme=blue-green)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brnt-toast&theme=blue-green)
 
 |       |            |
 | :---: |    :----   |
