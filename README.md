@@ -1,4 +1,4 @@
-# Jack of all Trades .:. ¯\\_(ツ)_/¯ .:.
+# Jack of all Trades ¯\\_(ツ)_/¯ 
 
 |       |            |
 | :---: |    :----   |
