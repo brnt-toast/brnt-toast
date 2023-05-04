@@ -1,4 +1,4 @@
-# ..Jack of all Trades .:. ¯\\_(ツ)_/¯ .:. Master of None..
+# Jack of all Trades .:. ¯\\_(ツ)_/¯ .:.
 
 |       |            |
 | :---: |    :----   |
